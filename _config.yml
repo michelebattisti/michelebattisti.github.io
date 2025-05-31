@@ -27,8 +27,10 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "University of Glasgow"
+  position         : "Professor of Economics"
+  homepage         : "https://michelebattisti.github.io" # URL to your homepage
+  twitter         : "@michelebattisti" # Twitter handle, e.g. "@username"
   email            : "michele.battisti@glasgow.ac.uk" 
 
   # Academic websites
