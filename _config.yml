@@ -24,13 +24,13 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "My Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him"  
+  bio              : "Short biography TBA"
   location         : "Earth"
   employer         : "University of Glasgow"
   position         : "Professor of Economics"
   homepage         : "https://michelebattisti.github.io" # URL to your homepage
-  twitter         : "michelebattisti" # Twitter handle, e.g. "@username"
+  twitter         : "@michelebattisti" # Twitter handle, e.g. "@username"
   email            : "michele.battisti@glasgow.ac.uk" 
 
   # Academic websites
